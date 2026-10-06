@@ -1,0 +1,11 @@
+Description of the Card Section
+-------------------------------
+Summary : Live view of redirection performance and network health
+BGS Configuration : Configure redirection rules and gateway behaviour
+Node Management : Manage and monitor border gateway nodes
+Border Mapping : Map corridors between home and visited networks
+Cell Management : Search and manage cell, LAC and node identifiers
+BGS Redirection : Review redirection outcomes and failure causes
+IMSI Management : Manage blacklists, whitelists and IMSI records
+Details Report : Generate message count and performance reports
+Access Management : Control user roles and access permissions
